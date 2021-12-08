@@ -3,5 +3,5 @@
 ## The purpose of this application is to grab information about places and their descriptions from a server, in this case a JSONRPC server and list them in table view format.
 ## This application is also capable of obtaining this information from a local database or json file. 
 
-![alt text] (https://github.com/WillyJS/iOS-Places-App/blob/master/Place_Descriptions/iOSPlaces.png?raw=true)
+![alt text] (https://github.com/WillyJS/iOS-Places-App/blob/master/Place_Descriptions/iOSPlaces.png)
 
